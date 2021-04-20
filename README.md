@@ -1,2 +1,2 @@
 # boilerplate-infosec
-A boilerplate for freecode curriculum
+Indroduction to information security with HelmetJS Challenges
